@@ -1,0 +1,8 @@
+com\mycompany\hospitalsystem\delete.class
+com\mycompany\hospitalsystem\Patients.class
+com\mycompany\hospitalsystem\inpatient.class
+com\mycompany\hospitalsystem\Search.class
+com\mycompany\hospitalsystem\HospitalSystem.class
+com\mycompany\hospitalsystem\PatientCategory.class
+com\mycompany\hospitalsystem\report.class
+com\mycompany\hospitalsystem\updateExistingPatient.class
